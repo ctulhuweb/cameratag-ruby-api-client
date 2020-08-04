@@ -1,4 +1,4 @@
-require 'cameratag_api_client/configuration'
+require 'cameratag/configuration'
 
 module Cameratag
   class << self
